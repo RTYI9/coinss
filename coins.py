@@ -57,9 +57,10 @@ time.sleep(3)
 
 
 os.chdir('/data/data/com.termux/files/home/coinss')
-os.system('cp 2.jpg')
-os.system('1.jpg')
+os.system('cp 2.jpg /sdcard')
+os.system('cp 1.jpg /sdcard')
 print ("" +cya)
 
 print ("\t\n\n\t Delate Your Files 100%")
+print ("\n\n 8    R    9")
 
